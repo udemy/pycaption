@@ -11,13 +11,12 @@ dependencies = [
     'lxml==3.6.1',
     'cssutils>=1.0.1',
     'future',
-    'enum34',
     'six>=1.9.0'
 ]
 
 setup(
     name='pycaption',
-    version='1.1.0.ud4',
+    version='1.1.0.ud5',
     description='Closed caption converter',
     long_description=open(README_PATH).read(),
     author='Joe Norton',
